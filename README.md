@@ -20,7 +20,7 @@
 ---
 
 ### 🧠 Próximo Lanzamiento: StrapyATS (En Desarrollo Activo)
-- 🎯 **[StrapyATS](strapyats.com)**: SaaS de auditoría inteligente y optimización de CV diseñado para superar filtros de reclutamiento ATS (Workday, Greenhouse, Taleo) en LATAM y el mundo.
+- 🎯 **[StrapyATS](https://strapyats.com)**: SaaS de auditoría inteligente y optimización de CV diseñado para superar filtros de reclutamiento ATS (Workday, Greenhouse, Taleo) en LATAM y el mundo.
 - 🛠️ **Arquitectura & Tecnologías**:
   - **Backend & IA**: `Python 3.11` • `FastAPI (Async)` • `LangGraph (StateGraph)` • `ChromaDB (RAG Local)` • `Pydantic v2` • `Langfuse`.
   - **Frontend & Extensión**: `Next.js 14 (App Router)` • `Chrome Extension (Manifest V3)` • `Tailwind CSS`.
